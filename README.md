@@ -17,6 +17,9 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 
 *Left: Original Image | Right: Enhanced Image*
 
+![Original Image](img4.jpg) ![Enhanced Image](enhanced_image (7).jpg)
+
+*Left: Original Image | Right: Enhanced Image*
 
 2. **Streamlit Interface Functions:**
    - **`st.title("Image Resolution Enhancement")`:** Sets the title of the Streamlit app.
