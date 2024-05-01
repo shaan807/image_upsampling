@@ -20,7 +20,7 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 
 *Left: Original Image | Right: Enhanced Image*
 
-![Original Image](pexels-snapwire-6992.jpg) ![Enhanced Image](enhanced_image(4).jpg)
+![Original Image](pexels-snapwire-6992.jpg) ![Enhanced Image](enhanced_image%20(4).jpg)
 
 *Left: Original Image | Right: Enhanced Image*
 
