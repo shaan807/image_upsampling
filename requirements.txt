@@ -1,0 +1,11 @@
+tensorflow
+keras-preprocessing
+joblib
+opencv-python
+opencv-contrib-python
+numpy
+scikit-learn
+skimage
+streamlit
+
+
