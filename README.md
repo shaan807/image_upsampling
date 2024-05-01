@@ -11,6 +11,13 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 ### Functions:
 1. **`enhance_image(image)`:** Takes a low-resolution image and enhances its resolution using advanced algorithms, possibly involving interpolation, super-resolution, or deep learning-based methods.
 
+## Image Comparison
+
+![Original Image](original.png) ![Enhanced Image](upscaled_test.png)
+
+*Left: Original Image | Right: Enhanced Image*
+
+
 2. **Streamlit Interface Functions:**
    - **`st.title("Image Resolution Enhancement")`:** Sets the title of the Streamlit app.
    - **`st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])`:** Allows users to upload images.
