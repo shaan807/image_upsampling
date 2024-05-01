@@ -16,6 +16,9 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 ![Original Image](original.png) ![Enhanced Image](upscaled_test.png)
 *Left: Original Image | Right: Enhanced Image*
 
+![Original Image](pexels-eberhardgross-2437297.jpg) ![Enhanced Image](enhanced_image%20(5).jpg)
+*Left: Original Image | Right: Enhanced Image*
+
 ![Original Image](img4.jpg) ![Enhanced Image](enhanced_image%20(7).jpg)
 
 *Left: Original Image | Right: Enhanced Image*
