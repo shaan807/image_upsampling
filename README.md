@@ -13,10 +13,10 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 
 ## Image Comparison
 
-![Original Image](original.png) ![Enhanced Image](enhanced_image (7).jpg)
+![Original Image](original.png) ![Enhanced Image](upscaled_test.png)
 *Left: Original Image | Right: Enhanced Image*
 
-![Original Image](img4.jpg) ![Enhanced Image](enhanced_image (7).jpg)
+![Original Image](img4.jpg) ![Enhanced Image](enhanced_image%20(7).jpg)
 
 *Left: Original Image | Right: Enhanced Image*
 
