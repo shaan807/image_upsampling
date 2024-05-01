@@ -20,6 +20,10 @@ Welcome to our Image Resolution Enhancement project! This application, built usi
 
 *Left: Original Image | Right: Enhanced Image*
 
+![Original Image](pexels-snapwire-6992.jpg) ![Enhanced Image](enhanced_image(4).jpg)
+
+*Left: Original Image | Right: Enhanced Image*
+
 2. **Streamlit Interface Functions:**
    - **`st.title("Image Resolution Enhancement")`:** Sets the title of the Streamlit app.
    - **`st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])`:** Allows users to upload images.
